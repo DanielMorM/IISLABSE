@@ -1,0 +1,25 @@
+Make changes in a sequence, according to the points of description, after each step testing and committing them in a repository:
+
+1. New document section:
+
+<section id="section3" class="panel panel-default">
+		<div class="panel-heading">
+    		<h3 class="panel-title">Section3 title</h3>
+  		</div>
+  		<div class="panel-body">
+	    	Section3 content
+	  	</div>
+		<footer class="panel-footer">
+			Section3 footer
+		</footer>
+</section>
+
+2. Section 3 title: 
+Centralized revision control system.
+
+3. Section 3 contents:
+In  centralized revision control systems, there is one central repository, storing all units subjected to version control, and many clients who are connecting to it via the service access the various versions of the documents.
+
+4. Section 3 footer:
+<a href="http://git-scm.com/book/en/Getting-Started-About-Version-Control#Centralized-Version-Control-Systems">Git - manual</a>
+
