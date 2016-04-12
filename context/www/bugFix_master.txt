@@ -1,3 +1,0 @@
-Problem: The basic structure of the page does not have information on the code page and the type of content 
-Solution - complement the page header: 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
